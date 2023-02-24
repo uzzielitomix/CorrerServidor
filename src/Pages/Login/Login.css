@@ -105,7 +105,8 @@
 .nav {
   /**position: absolute;*/
   text-align: center;
-  background-color: #54407D;
+  /* background-color: #54407D; */
+  background: linear-gradient(black,#54407D);
 
   color: white;
   width: 100%;
@@ -115,7 +116,7 @@
 }
 
 .footer {
-  background-color: #54407D;
+  background: linear-gradient(#54407D, black);
   color: white;
   text-align: center;
   

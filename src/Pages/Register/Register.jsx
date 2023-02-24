@@ -48,7 +48,7 @@ const Register = () => {
     <>
     
 
-    <form className="main-container"> 
+   {/*  <form className="main-container">  */}
       {/*       <h1>Registro</h1>
       <hr />
       <br />
@@ -225,7 +225,7 @@ const Register = () => {
           </div>
         </div>
       </div>
-      </form>
+     {/*  </form> */}
       <Footer></Footer>
     </>
     
