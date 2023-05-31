@@ -1,1 +1,1 @@
-export const URL_BASE="http://repositorioitsz.sytes.net/api";
+export const URL_BASE="http://187.210.77.102/api";
